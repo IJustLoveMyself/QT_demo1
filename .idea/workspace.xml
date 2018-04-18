@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="037dbeba-3a5e-42d4-8673-d266eee76d7b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/QT_demo1$main.coverage" NAME="main Coverage Results" MODIFIED="1522217968999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QT_demo1$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1523948757225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QT_demo1$test.coverage" NAME="test Coverage Results" MODIFIED="1522722401085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QT_demo1$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1522150331621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/QT_demo1$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1523949421847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../qt_test" />
+    <SUITE FILE_PATH="coverage/QT_demo1$Mwindow.coverage" NAME="Mwindow Coverage Results" MODIFIED="1522141124040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../525/525" />
+    <SUITE FILE_PATH="coverage/QT_demo1$Draw.coverage" NAME="Draw Coverage Results" MODIFIED="1523958578305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Draw.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Draw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Form.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+              <folding>
+                <element signature="e#189#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/choose.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test3.py" />
+        <option value="$PROJECT_DIR$/../qt_test/test.py" />
+        <option value="$PROJECT_DIR$/test3.spec" />
+        <option value="$PROJECT_DIR$/Form.py" />
+        <option value="$PROJECT_DIR$/Draw.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="583" />
+    <option name="y" value="116" />
+    <option name="width" value="909" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QT_demo1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="QT_demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qt_test/test.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Draw">
+    <configuration name="Draw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QT_demo1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Draw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QT_demo1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../qt_test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QT_demo1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../qt_test/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QT_demo1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="QT_demo1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Draw" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.Draw" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="037dbeba-3a5e-42d4-8673-d266eee76d7b" name="Default" comment="" />
+      <created>1522137831808</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522137831808</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116145834" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993644" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32944915" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QPainter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12906">
+          <caret line="478" column="8" lean-forward="false" selection-start-line="478" selection-start-column="8" selection-end-line="478" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QFont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="50" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choose.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QRadialGradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QGradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtCore/QRect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QPainter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12906">
+          <caret line="478" column="8" lean-forward="false" selection-start-line="478" selection-start-column="8" selection-end-line="478" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="67" column="31" lean-forward="true" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choose.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QRadialGradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QGradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtCore/QRect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QPainter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11988">
+          <caret line="444" column="8" lean-forward="false" selection-start-line="444" selection-start-column="8" selection-end-line="444" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choose.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" column="49" lean-forward="true" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../525/525/GoWindows.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtCore/QPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="76" column="8" lean-forward="false" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtCore/QRectF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="107" column="12" lean-forward="false" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QFontMetrics.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtCore/QRect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2889">
+          <caret line="107" column="8" lean-forward="false" selection-start-line="107" selection-start-column="8" selection-end-line="107" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtCore/Qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="135" column="4" lean-forward="false" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QTransform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1836">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QFont.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8046">
+          <caret line="298" column="8" lean-forward="false" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QRadialGradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="69" column="8" lean-forward="false" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QGradient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QPolygonF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="182" column="8" lean-forward="false" selection-start-line="182" selection-start-column="8" selection-end-line="182" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtWidgets/QLineEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="467" column="8" lean-forward="false" selection-start-line="467" selection-start-column="8" selection-end-line="467" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG/123.png" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/choose.py" />
+    <entry file="file://$PROJECT_DIR$/IMG/ZP.png" />
+    <entry file="file://$PROJECT_DIR$/../qt_test/qt_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qt_test/Hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qt_test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IMG/ZP2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1282946434/PyQt5/QtGui/QPainter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="212" column="33" lean-forward="false" selection-start-line="212" selection-start-column="33" selection-end-line="212" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../525/525/Mwindow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="24" column="115" lean-forward="false" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="12" column="37" lean-forward="false" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Form.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding>
+            <element signature="e#189#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="34" column="37" lean-forward="false" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
